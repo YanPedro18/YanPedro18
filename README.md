@@ -1,7 +1,7 @@
 <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Yanpedro18">
 
 <p align="left"> 
- Hello my bame is Yan Pedro i am <strong>Front-end Developer anda UX/UI Designer</strong>.<br>
+ Hello my name is Yan Pedro i am <strong>Front-end Developer anda UX/UI Designer</strong>.<br>
 I am currently studying and looking for an internship or young apprentice.
 </p>
 
