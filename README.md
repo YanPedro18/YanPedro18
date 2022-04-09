@@ -1,12 +1,12 @@
 <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Yanpedro18">
 
 <p align="left"> 
- Hello my name is Yan Pedro i am <strong>Front-end Developer anda UX/UI Designer</strong>.<br>
+ Hello my name is Yan Pedro i am <strong>Front-end Developer and UX/UI Designer</strong>.<br>
 I am currently studying and looking for an internship or young apprentice.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Js, python, sql</strong>
+  🦄 Linguagens: <strong>Native Js, HTML</strong>
 </p>
 
 <p align="left">
@@ -27,10 +27,10 @@ I am currently studying and looking for an internship or young apprentice.
   <a href="https://api.whatsapp.com/send?phone=5531994045385&text=Olá%20Cliente,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=5531994045385&text=Olá%20Cliente,%20tudo%20bem? "/></a>
 
-  <a href="https://www.facebook.com/YanPedroFlex18" alt="Facebook">
+  <a href="" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white& "/></a>
 
-  <a href="https://www.instagram.com/yanyasuo18/" alt="Instagram">
+  <a href="https://www.instagram.com/nayflag19/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&"/></a>
 
 </p>  
