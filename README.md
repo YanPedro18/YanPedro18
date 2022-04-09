@@ -6,7 +6,7 @@ I am currently studying and looking for an internship or young apprentice.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Native Js, HTML</strong>
+  🦄 Linguagens: <strong>Js, python, sql</strong>
 </p>
 
 <p align="left">
