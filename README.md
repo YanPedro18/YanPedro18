@@ -6,11 +6,11 @@ I am currently studying and looking for an internship or young apprentice.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Native Js, HTML, JAVA</strong>
+  🦄 Linguagens: <strong>Native Js, HTML, JAVA, CSS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Photoshop,figma,git e github </strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Photoshop, figma, git e github </strong>
 </p>
 
 <p align="left">
@@ -23,9 +23,6 @@ I am currently studying and looking for an internship or young apprentice.
 
   <a href="www.linkedin.com/in/yanpedro18" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5531994045385&text=Olá%20Cliente,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=5531994045385&text=Olá%20Cliente,%20tudo%20bem? "/></a>
 
   <a href="https://www.instagram.com/nayflag19/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&"/></a>
