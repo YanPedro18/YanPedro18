@@ -2,15 +2,15 @@
 
 <p align="left"> 
  Hello my name is Yan Pedro i am <strong>Front-end Developer and UX/UI Designer</strong>.<br>
-I am currently studying and looking for an internship or young apprentice.
+I am currently studying and looking for experience.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Native Js, HTML, JAVA, CSS</strong>
+  🦄 Linguagens: <strong>Native JS, HTML, JAVA, CSS, SASS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Photoshop, figma, git e github </strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Photoshop, figma, git, github e GitLab </strong>
 </p>
 
 <p align="left">
@@ -24,7 +24,6 @@ I am currently studying and looking for an internship or young apprentice.
   <a href="www.linkedin.com/in/yanpedro18" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
-  <a href="https://www.instagram.com/nayflag19/" alt="Instagram">
+  <a href="https://www.instagram.com/nayflag20/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&"/></a>
-
 </p>  
