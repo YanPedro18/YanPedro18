@@ -27,3 +27,6 @@ I am currently studying and looking for experience.
   <a href="https://www.instagram.com/nayflag20/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&"/></a>
 </p>  
+
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
