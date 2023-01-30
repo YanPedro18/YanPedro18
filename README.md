@@ -6,7 +6,7 @@ I am currently studying and looking for experience.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Native JS, HTML, JAVA, CSS, SASS</strong>
+  🦄 Linguagens: <strong>Native JS, PHP, HTML, JAVA, CSS, SASS</strong>
 </p>
 
 <p align="left">
