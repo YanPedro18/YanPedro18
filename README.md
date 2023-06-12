@@ -46,5 +46,3 @@ I am currently studying and looking for experience.
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanPedro18&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 ![YanPedro18's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanPedro18&show_icons=true&count_private=true&include_all_commits=true)
-
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
