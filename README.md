@@ -6,11 +6,11 @@ I am currently studying and looking for experience.
 </p>
 
 <p align="left">
-  🦄 Hard Skills: <strong>Native JS, PHP, HTML, JAVA, CSS, SASS</strong>
+  🦄 Hard Skills: <strong>Native Js, Php, Html, Java, Css, SASS, React.Js, Vite.js e styled-components.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, figma, git, github e GitLab </strong>
+  💼 Ferramentas: <strong>Visual Studio Code, figma, git, github e GitLab. </strong>
 </p>
 
 <p align="left">
