@@ -1,12 +1,12 @@
 
 
 <p align="left"> 
- Hello my name is Yan Pedro i am <strong>Front-end Developer and UX/UI Designer</strong>.<br>
+ Hello my name is Yan Pedro i am <strong>Front-end Developer</strong>.<br>
 I am currently studying and looking for experience.
 </p>
 
 <p align="left">
-  🦄 Hard Skills: <strong>Native Js, Php, Html, Java, Css, SASS, React.Js, Vite.js e styled-components.</strong>
+  👨‍💻 Hard Skills: <strong>Native Js, Php, Html, Java, Css, SASS, React.Js, Vite.js e styled-components.</strong>
 </p>
 
 <p align="left">
@@ -14,18 +14,20 @@ I am currently studying and looking for experience.
 </p>
 
 <p align="left">
-  💌 Deseja entrar em contato comigo?: ⤵️
+  🔗 Deseja entrar em contato comigo?: ⤵️
 </p>
 
 <p align="left">
+
+  <a href="https://wa.me/+5531994045385?text=Ol%C3%A1%20Yan,%20gostaria%20de%20conversar%20com%20voc%C3%A" alt="Whatsapp">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
   <a href="leitebr14@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="www.linkedin.com/in/yanpedro18" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
-  <a href="https://www.instagram.com/nayflag20/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&"/></a>
 </p>  
 
 
