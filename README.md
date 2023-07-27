@@ -16,7 +16,7 @@
 </p>  
 
  <ul align="left"> 
-   <img src="https://i.pinimg.com/originals/bb/cf/be/bbcfbe9eb33bedfcac02bf66c350fa6f.gif" />
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" align="right" alt="Formando img"/>
   <li>💻 A Javascript Developer from Beo Horizonte, Brasil;</li>
   <li>😍 Passionate about Javascript, Typescript, Node and ReactJS.</li>
   <li>💻 I also have knowledge in Php and Mysql</li>
