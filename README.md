@@ -31,7 +31,7 @@
   🛠 Tech Stack 
 </h2>
 
-<hr>
+
 
 <div align="center">
 <div style="display: inline_block"><br>
