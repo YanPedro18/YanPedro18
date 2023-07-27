@@ -50,7 +50,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23202120&title_bg=%23F82440&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a>
  <hr>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yanpedro18)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yanpedro18&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
  ![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark#gh-dark-mode-only)
 
