@@ -16,7 +16,7 @@
 </p>  
 
  <ul align="left"> 
-   <img src="https://i.pinimg.com/originals/bb/cf/be/bbcfbe9eb33bedfcac02bf66c350fa6f.gif">
+   <img src="https://i.pinimg.com/originals/bb/cf/be/bbcfbe9eb33bedfcac02bf66c350fa6f.gif" />
   <li>💻 A Javascript Developer from Beo Horizonte, Brasil;</li>
   <li>😍 Passionate about Javascript, Typescript, Node and ReactJS.</li>
   <li>💻 I also have knowledge in Php and Mysql</li>
