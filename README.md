@@ -17,7 +17,7 @@
 
  <ul align="left"> 
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" height="200" width="190" align="right" alt="Formando img"/>
-  <li>💻 A Javascript Developer from Beo Horizonte, Brasil;</li>
+  <li>💻 A Javascript Developer from Belo Horizonte, Brasil;</li>
   <li>😍 Passionate about Javascript, Typescript, Node and ReactJS.</li>
   <li>💻 I also have knowledge in Php and Mysql</li>
   <li>😊 Enjoy spending my free time trying to solve new problems in programming.</li>
@@ -49,5 +49,8 @@
 </h3>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23202120&title_bg=%23F82440&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a>
  <hr>
+
+ [![Yan Pedro GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/YanPedro18/github-readme-stats#gh-dark-mode-only)
+
  
 
