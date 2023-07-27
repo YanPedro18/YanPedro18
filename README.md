@@ -52,6 +52,6 @@
 
  [![Yan Pedro GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/YanPedro18/github-readme-stats#gh-dark-mode-only)
  
-![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=YanPedro18&layout=compact)
+![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=YanPedro18&layout=compact&theme=dark#gh-dark-mode-only)
  
 
