@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <p>Now looking for a developer job</p>
+  <p>Now looking for a developer job.</p>
   <a href="https://wa.me/+5531994045385?text=Ol%C3%A1%20Yan,%20gostaria%20de%20conversar%20com%20voc%C3%A" alt="Whatsapp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   
