@@ -1,5 +1,5 @@
 <h1 align="left"> 
- Hey yo, I'm Yan, <strong>Software Developer!!</strong>
+ Hey yo, I'm Yan, <strong>Software a Developer!!</strong>
 </h1>
 
 <p align="left">
