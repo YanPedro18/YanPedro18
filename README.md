@@ -18,10 +18,10 @@
  <ul align="left"> 
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" height="200" width="190" align="right" alt="Formando img"/>
   <li>💻 A Javascript Developer from Belo Horizonte, Brasil;</li>
-  <li>😍 Passionate about Javascript, Typescript, Node and ReactJS.</li>
+  <li>😍 Passionate about C#, .Net Framework and net core, Javascript, Typescript, Firebase, Node and ReactJS.</li>
   <li>💻 I also have knowledge in Php and Mysql</li>
   <li>😊 Enjoy spending my free time trying to solve new problems in programming.</li>
-  <li>🤓 Currently improving my skills in React and unit testing, also in Typescript.</li>
+  <li>🤓 Currently improving my skills in C#, .Net Framework and net core, React and unit testing, also in Typescript.</li>
   
  </ul>
  
