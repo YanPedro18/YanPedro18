@@ -35,12 +35,17 @@
 
 <div align="center">
 <div style="display: inline_block"><br>
+  <img align="center" alt="Formando C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge">
+  <img align="center" alt="Formando .NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dot-net&logoColor=white&style=for-the-badge">
+  <img align="center" alt="Formando Entity" src="http://img.shields.io/badge/Entity%20Framework-512BD4?logo=entity-framework&logoColor=white&style=for-the-badge">
+  <img align="center" alt="Formando PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge">
   <img align="center" alt="Formando-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Formando-TypeScript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Formando React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Formando Node.js"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Formando Php"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Formando Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+ 
 </div>
  
  <hr>
