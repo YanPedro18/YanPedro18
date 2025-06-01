@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <p>I now work as a C# development intern at @Reply.</p>
+  <p>I currently work as a Junior C# Developer at @Reply Brasil – Hermes Reply, based in Belo Horizonte.</p>
   <a href="https://wa.me/+5531994045385?text=Ol%C3%A1%20Yan,%20gostaria%20de%20conversar%20com%20voc%C3%A" alt="Whatsapp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   
@@ -17,11 +17,13 @@
 
  <ul align="left"> 
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" height="200" width="190" align="right" alt="Formando img"/>
-  <li>💻 A Javascript Developer from Belo Horizonte, Brasil;</li>
-  <li>😍 Passionate about C#, .Net Framework and net core, Javascript, Typescript, Firebase, Node and ReactJS.</li>
-  <li>💻 I also have knowledge in Php and Mysql</li>
-  <li>😊 Enjoy spending my free time trying to solve new problems in programming.</li>
-  <li>🤓 Currently improving my skills in C#, .Net Framework and net core, React and unit testing, also in Typescript.</li>
+  <li>💻 Fullstack developer from Belo Horizonte, Brazil;</li>
+  <li>🔥 Specialist in C#, .NET, React, and Typescript!</li>
+  <li>🚀 Passionate about technology, automation, and applied artificial intelligence.</li>
+  <li>🛠️ Experienced with C#, .NET MVC 9, SQL Server, PostgreSQL, React, Firebase, Typescript, OpenAI API, Azure DevOps, Python, YOLO, and computer vision.</li>
+  <li>📦 Also knowledgeable in PHP, MySQL, and Node.js</li>
+  <li>🧠 In my free time, I enjoy solving real-world problems with code and learning new things!</li>
+  <li>🤓 Currently improving my skills in C#, clean architecture, design patterns, React, unit testing, Typescript, and smart API integration.</li>
   
  </ul>
  
