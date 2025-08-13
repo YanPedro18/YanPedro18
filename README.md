@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <p>I currently work as a Junior C# Developer at @Reply Brasil – Hermes Reply, based in Belo Horizonte.</p>
+  <p><p>Developer with experience in C# and .NET, formerly at @Reply Brasil – Hermes Reply, Belo Horizonte. Open to new opportunities.</p></p>
   <a href="https://wa.me/+5531994045385?text=Ol%C3%A1%20Yan,%20gostaria%20de%20conversar%20com%20voc%C3%A" alt="Whatsapp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   
