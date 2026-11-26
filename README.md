@@ -24,7 +24,7 @@
   <li>🔥 Specialist in C# and .NET, with React and TypeScript on the front end</li>
   <li>🧩 Microservices and event-driven architecture with RabbitMQ and Kafka</li>
   <li>🛡️ Resilience patterns and observability in production systems</li>
-  <li>🚀 Passionate about automation and applied artificial intelligence (OpenAI API, computer vision)</li>
+  <li>🚀 Passionate about automation and applied artificial intelligence (AI Agents · MCP, computer vision)</li>
   <li>🤓 Currently deepening: AI First, clean architecture, design patterns, DDD, BDD, distributed systems and smart API integration</li>
 </ul>
 
@@ -45,6 +45,7 @@
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge">
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge">
 <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white&style=for-the-badge">
+<img alt="Dapper" src="https://img.shields.io/badge/Dapper-512BD4?logo=dotnet&logoColor=white&style=for-the-badge">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=nodedotjs&logoColor=white&style=for-the-badge">
 
 **Messaging**<br>
