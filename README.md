@@ -55,6 +55,7 @@
 
 **Databases**<br>
 <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge">
+<img alt="Sybase" src="https://img.shields.io/badge/Sybase-0FAAFF?logo=sap&logoColor=white&style=for-the-badge">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
 
